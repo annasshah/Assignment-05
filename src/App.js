@@ -6,6 +6,8 @@ import Navbar from './components/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import AfterSliderMain from './components/AfterSliderMain';
 import { Box } from '@mui/system';
+import Feaures from './components/Feaures';
+import Sections from './components/Sections';
 
 function App() {
 
@@ -19,6 +21,9 @@ function App() {
       <SliderMainSection/>
 
       <AfterSliderMain/>
+      <Feaures/>
+
+      <Sections/>
   
 
     </Box>
