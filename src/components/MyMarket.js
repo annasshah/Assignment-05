@@ -79,7 +79,7 @@ export default function MyMarket() {
                     <ListItemAvatar sx={{minWidth:'25px',marginRight:'12px'}}>
                         <Avatar sx={{width:25, height:25}} alt="Remy Sharp" src={SportsEntertainment} />
                     </ListItemAvatar>
-                    <Typography fontSize={14}>Sports & Entertainment
+                    <Typography fontSize={14}>Sports &amp; Entertainment
                     </Typography>
                     <ListItemText />
                     <KeyboardArrowRightIcon />
@@ -99,7 +99,7 @@ export default function MyMarket() {
                     <ListItemAvatar sx={{minWidth:'25px',marginRight:'12px'}}>
                         <Avatar sx={{width:25, height:25}} alt="Remy Sharp" src={HomeGarden} />
                     </ListItemAvatar>
-                    <Typography fontSize={14}>Home & Garden
+                    <Typography fontSize={14}>Home &amp; Garden
                     </Typography>
                     <ListItemText />
                     <KeyboardArrowRightIcon />
@@ -109,7 +109,7 @@ export default function MyMarket() {
                     <ListItemAvatar sx={{minWidth:'25px',marginRight:'12px'}}>
                         <Avatar sx={{width:25, height:25}} alt="Remy Sharp" src={BeautyPersonalCare} />
                     </ListItemAvatar>
-                    <Typography fontSize={14}>Beauty & Personal Care
+                    <Typography fontSize={14}>Beauty &amp; Personal Care
                     </Typography>
                     <ListItemText />
                     <KeyboardArrowRightIcon />
